@@ -2,7 +2,7 @@
 // @name         (c) All rights reserved.
 // @namespace    http://tampermonkey.net/
 // @version      3
-// @description  Bypass Linkvertise
+// @description  Bypass Platoboost
 // @author       murak1sa & wzpal
 // @match        *://*.linkvertise.com/*
 // @match        *://*.linkvertise.net/*
